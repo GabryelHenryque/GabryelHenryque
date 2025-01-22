@@ -10,6 +10,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/bfe64b6c-de71-4064-bd9d-3295ff262b74"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 <br>
 
+
 <!-- Subtitle -->
 <div align="left"> 
  <p align="left">
