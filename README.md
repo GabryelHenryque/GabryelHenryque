@@ -46,5 +46,8 @@
 <a href="https://gabryelhenryque.github.io/exemple_css-html/"><img align="center" alt="Math-css3" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></a>
 <img align="center" alt="Math-Kotlin" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"> <img align="center" alt="Math-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 <a href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
-
  </div>
+
+<div div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabryelHenryque&theme=dracula&show_icons=true" alt="Imagem">
+</div>
