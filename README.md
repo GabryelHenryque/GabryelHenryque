@@ -13,10 +13,15 @@
 -----------------------------------------------------------
 <div align ="center">
  📞 Contato:
-  
-  <a href="mailto:ghncontato@gmail.com"><img width="70" align="center" src="https://static.cdnlogo.com/logos/g/93/gmail.svg"></a>
-  <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img align="center" width="60" src="https://www.svgrepo.com/show/353999/linkedin.svg"></a> 
+ 
+  <a href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div aling ="center">
+ 
+
+</div>
+
 
 <div align="center"> 
  🔎 projetos:        
