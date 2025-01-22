@@ -5,20 +5,33 @@
 </div>
 
 -----------------------------------------------------------
-<p >
-- 💡 **Eu gosto** de aprender coisas novas, principalmente quando e sobre arte e tecnologia. <br>
-- 👨‍💻 **Hoje** estou Cursando o Curso TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS. <br>
-- 📚 **estudo** independente GML(GameMaker Language), roteiro de cinema e animação <br>
-</p>
+<!-- GIF -->
+   <img align="right" src="https://github.com/user-attachments/assets/bfe64b6c-de71-4064-bd9d-3295ff262b74"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 
-<div align ="center">
- 📞 Contato:
+<br>
+
+
+<div align="left"> 
+ <p align="left">
+   🦄 Eu gosto: **tecnologia e arte**
+ </p><br>
  
+ <p align="left">
+   💼 Atualmente: **Cursando Técnico em desenvolvimento de sistemas**
+ </p><br>
+ 
+ <p align="left">
+   📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho**
+ </p><br>
+</div><br>
+<div align ="center">
+ 📞 Contato: <br>
   <a href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div aling ="center">
  
+-----------------------------------------------------------
 
 </div>
 
