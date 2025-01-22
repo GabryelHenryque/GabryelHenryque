@@ -14,16 +14,18 @@
 <div align="left"> 
  <p align="left">
    🦄 Eu gosto: **tecnologia e arte**
- </p><br>
+ </p>
  
  <p align="left">
    💼 Atualmente: **Cursando Técnico em desenvolvimento de sistemas**
- </p><br>
+ </p>
  
  <p align="left">
    📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho**
  </p><br>
-</div><br>
+</div><br><br><br><br>
+
+
 <div align ="center">
  📞 Contato: <br>
   <a href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
