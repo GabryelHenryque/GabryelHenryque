@@ -49,4 +49,11 @@
 
 <div div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabryelHenryque&theme=dracula&show_icons=true" alt="Imagem">
+ 
 </div>
+
+<div div align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="900px" alt="Imagem">
+</div>
+
+
