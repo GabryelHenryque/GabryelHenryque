@@ -4,13 +4,13 @@
   </ul>
 </div>
 
+-----------------------------------------------------------
 <p >
 - 💡 **Eu gosto** de aprender coisas novas, principalmente quando e sobre arte e tecnologia. <br>
 - 👨‍💻 **Hoje** estou Cursando o Curso TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS. <br>
 - 📚 **estudo** independente GML(GameMaker Language), roteiro de cinema e animação <br>
 </p>
 
------------------------------------------------------------
 <div align ="center">
  📞 Contato:
  
