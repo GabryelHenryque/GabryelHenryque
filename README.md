@@ -13,15 +13,15 @@
 
 <div align="left"> 
  <p align="left">
-   🦄 Eu gosto: **tecnologia e arte**
- </p>
+   🦄 Eu gosto: **tecnologia e arte.**
+ </p><br>
  
  <p align="left">
-   💼 Atualmente: **Cursando Técnico em desenvolvimento de sistemas**
- </p>
+   💼 Atualmente: **Cursando Técnico em desenvolvimento de sistemas.**
+ </p><br>
  
  <p align="left">
-   📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho**
+   📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho.**
  </p><br>
 </div><br><br><br><br>
 
