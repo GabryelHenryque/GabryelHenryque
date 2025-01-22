@@ -53,7 +53,7 @@
 </div>
 
 <div div align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="900px" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="100%" alt="Imagem">
 </div>
 
 
