@@ -13,11 +13,11 @@
 <!-- Subtitle -->
 <div align="left"> 
  <p align="left">
-   🦄 Eu gosto: **tecnologia e arte.**
+   🦄 Tenho gostos em: **Tecnologia e Arte.**
  </p><br>
  
  <p align="left">
-   💼 Atualmente: **Cursando Técnico em desenvolvimento de sistemas.**
+   💼 Atualmente: **Cursando Técnico em Desenvolvimento de Sistemas.**
  </p><br>
  
  <p align="left">
