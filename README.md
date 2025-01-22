@@ -1,3 +1,4 @@
+<!-- Nome -->
 <div id="user-content-toc">
  <ul align="center">
      <summary>my<h1 style="display: inline-block">Gabriel henrique!</h1></summary>
@@ -6,11 +7,10 @@
 
 -----------------------------------------------------------
 <!-- GIF -->
-   <img align="right" src="https://github.com/user-attachments/assets/bfe64b6c-de71-4064-bd9d-3295ff262b74"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
-
+<img align="right" src="https://github.com/user-attachments/assets/bfe64b6c-de71-4064-bd9d-3295ff262b74"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 <br>
 
-
+<!-- Subtitle -->
 <div align="left"> 
  <p align="left">
    🦄 Eu gosto: **tecnologia e arte.**
@@ -25,19 +25,16 @@
  </p><br>
 </div><br><br><br>
 
-
+<!-- contato -->
 <div align ="center">
  📞 Contato: <br>
   <a href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<div aling ="center">
- 
+
 -----------------------------------------------------------
 
-</div>
-
-
+<!-- Projetos -->
 <div align="center"> 
  🔎 projetos:        
 
