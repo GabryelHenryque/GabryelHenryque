@@ -7,8 +7,9 @@
 
 -----------------------------------------------------------
 <!-- GIF -->
-<img align="right" src="https://github.com/user-attachments/assets/bfe64b6c-de71-4064-bd9d-3295ff262b74"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
+<img align="right" src="https://github.com/user-attachments/assets/d0be7701-179c-4a22-aaf3-ff497fde1f21"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 <br>
+
 
 
 <!-- Subtitle -->
