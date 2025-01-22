@@ -23,7 +23,7 @@
  <p align="left">
    📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho.**
  </p><br>
-</div><br><br><br><br>
+</div><br><br><br>
 
 
 <div align ="center">
