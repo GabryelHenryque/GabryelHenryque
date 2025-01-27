@@ -40,7 +40,7 @@
 <div align="center"> 
  🔎 projetos:        
 
-<a href="https://gabryelhenryque.github.io/htmlcssjs/"> <img align="top" alt="Math-javascript" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+<a href="https://gabryelhenryque.github.io/Dia-da-mulher/"> <img align="top" alt="Math-javascript" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 <a href="https://gabryelhenryque.github.io/exemple_html/"><img align="center" alt="Math-html5" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></a>
 <a href="https://gabryelhenryque.github.io/exemple_css-html/"><img align="center" alt="Math-css3" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></a>
 <img align="center" alt="Math-Kotlin" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"> <img align="center" alt="Math-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
