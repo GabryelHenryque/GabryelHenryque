@@ -7,7 +7,7 @@
 
 -----------------------------------------------------------
 <!-- GIF -->
-<img align="right" src="https://github.com/user-attachments/assets/d0be7701-179c-4a22-aaf3-ff497fde1f21"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
+<img align="right" src="https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 <br>
 
 
@@ -51,9 +51,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabryelHenryque&theme=dracula&show_icons=true" alt="Imagem">
  
 </div>
-
+<!--
 <div div align="center">
   <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="100%" alt="Imagem">
 </div>
+-->
 
 
