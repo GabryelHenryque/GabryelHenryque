@@ -46,11 +46,25 @@
 <img align="center" alt="Math-Kotlin" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"> <img align="center" alt="Math-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
 <a href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
  </div>
-
-<div div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabryelHenryque&theme=dracula&show_icons=true" alt="Imagem">
  
+-----------------------------------------------------------
+<div align="center">
+ 📊 Estatísticas:
+ 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&hide=Html&theme=dracula) |
+| :-: | :-: |
+
 </div>
+
+-----------------------------------------------------------
+
+<div align="center">
+   Visitantes<br>
+ 
+   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/count.svg" />
+ </div>
+
+
 <!--
 <div div align="center">
   <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="100%" alt="Imagem">
