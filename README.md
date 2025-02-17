@@ -59,7 +59,7 @@
 <div align="center">
    Visitantes<br>
  
-   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/" />
  </div>
 
 
