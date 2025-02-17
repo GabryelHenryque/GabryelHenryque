@@ -49,8 +49,7 @@
 <div align="center">
  📊 Estatísticas:
  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&hide=Html&theme=dracula) |
-| :-: | :-: |
+
 
 </div>
 
@@ -59,7 +58,7 @@
 <div align="center">
    Visitantes<br>
  
-   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/" />
+   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/count.svg" />
  </div>
 
 
