@@ -49,8 +49,10 @@
 <div align="center">
  📊 Estatísticas:
  
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&hide=Html&theme=dracula) |
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&theme=dracula) |
 | :-: | :-: |
+
+
 
 
 </div>
