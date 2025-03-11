@@ -30,8 +30,8 @@
 <!-- contato -->
 <div align ="center">
  📞 Contato: <br>
-  <a href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank" href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 -----------------------------------------------------------
@@ -40,9 +40,9 @@
 <div align="center"> 
  🔎 Melhores Projetos:        
 
-<a href="https://github.com/GabryelHenryque/Dia-da-mulher"><img align="center" alt="Math-css3"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></a>
-<a href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
-<a href="https://github.com/GabryelHenryque/DETRAN-GO_teste"><img align="center" alt="Math-BootStrap" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
+<a target="_blank" href="https://github.com/GabryelHenryque/Dia-da-mulher"><img align="center" alt="Math-css3"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></a>
+<a target="_blank" href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
+<a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste"><img align="center" alt="Math-BootStrap" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
  </div>
  <!--<img align="center" alt="Math-Kotlin" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"> <img align="center" alt="Math-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> --
  <!-- <a href="https://gabryelhenryque.github.io/Dia-da-mulher/"> <img align="top" alt="Math-javascript" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>-->
