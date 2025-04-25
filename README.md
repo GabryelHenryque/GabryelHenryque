@@ -15,15 +15,15 @@
 <!-- Subtitle -->
 <div align="left"> 
  <p align="left">
-   🦄 Tenho gostos em: **Tecnologia e Arte.**
+   🦄 Gostos de: **Tecnologia e Arte.**
  </p><br>
  
  <p align="left">
-   💼 Atualmente: **Cursando Técnico em Desenvolvimento de Sistemas.**
+   💼 Atualmente: **Cursando TDS.**
  </p><br>
  
  <p align="left">
-   📚 Estudos: **Python, HTML/CSS/JS, GameMakerStudio2 e Desenho.**
+   📚 Estudando: **Django, React, GameMakerStudio2 e Desenho.**
  </p><br>
 </div><br><br><br>
 
