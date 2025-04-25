@@ -15,7 +15,7 @@
 <!-- Subtitle -->
 <div align="left"> 
  <p align="left">
-   🦄 Gostos de: **Tecnologia e Arte.**
+   🦄 Gosto de: **Tecnologia e Arte.**
  </p><br>
  
  <p align="left">
