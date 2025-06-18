@@ -7,9 +7,10 @@
 
 -----------------------------------------------------------
 <!-- GIF -->
-<img align="right" src="https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
+<img align="right" src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd"  min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem">
 <br>
 <!-- https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d -->
+
 <!--https://github.com/user-attachments/assets/861a56cd-7f12-4478-9c31-92d3fa14fdb5 -->
 
 <!-- Subtitle -->
