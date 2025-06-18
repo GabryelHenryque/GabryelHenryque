@@ -6,39 +6,47 @@
 </div>
 
 -----------------------------------------------------------
-<!-- GIF -->
-<img align="right" src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd"  min-width="400px" max-width="500px" width="500px" align="right" alt="Imagem">
+
+<table align="center" style="border: none;">
+  <tr>
+    <!-- Sobre mim -->
+    <td align="left" width="50%">
+      <h3>🧠 Sobre mim</h3>
+      <ul>
+        <li>🦄 Gosto de: <strong>Tecnologia e Arte</strong></li>
+        <li>💼 Atualmente: <strong>Cursando TDS</strong></li>
+        <li>📚 Estudando: <strong>Django, React, GameMakerStudio2 e Desenho</strong></li>
+      </ul>
+    </td>
+
+   <!-- Imagem -->
+   <td align="right" width="50%">
+     <img src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd" width="500px" alt="Imagem animada do perfil">
+   </td>
+  </tr>
+</table>
+
+<!-- Contato centralizado -->
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<div align="center">
+  <h3>📞 Contato</h3>
+  <a href="mailto:ghncontato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+
+
 <!-- https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d -->
 
 <!--https://github.com/user-attachments/assets/861a56cd-7f12-4478-9c31-92d3fa14fdb5 -->
 
-<!-- Subtitle -->
-<div align="left"> 
- <p align="left">
-   🦄 Gosto de: **Tecnologia e Arte.**
- </p><br>
- 
- <p align="left">
-   💼 Atualmente: **Cursando TDS.**
- </p><br>
- 
- <p align="left">
-   📚 Estudando: **Django, React, GameMakerStudio2 e Desenho.**
- </p><br>
-</div><br><br><br>
 
-<!-- contato -->
-<div align ="center">
- 📞 Contato: <br>
-  <a target="_blank" href="mailto:ghncontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
 -----------------------------------------------------------
 
