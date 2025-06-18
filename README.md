@@ -7,7 +7,10 @@
 
 -----------------------------------------------------------
 <!-- GIF -->
-<img align="right" src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd"  min-width="400px" max-width="400px" width="500px" align="right" alt="Imagem">
+<img align="right" src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd"  min-width="400px" max-width="500px" width="500px" align="right" alt="Imagem">
+<br>
+<br>
+<br>
 <br>
 <!-- https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d -->
 
