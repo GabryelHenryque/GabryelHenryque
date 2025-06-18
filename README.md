@@ -17,8 +17,17 @@
         <li>💼 Atualmente: <strong>Cursando TDS</strong></li>
         <li>📚 Estudando: <strong>Django, React, GameMakerStudio2 e Desenho</strong></li>
       </ul>
+     <div align="center">
+      <h3>📞 Contato</h3>
+      <a href="mailto:ghncontato@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      </a>
+      <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </div>
     </td>
-
+   
    <!-- Imagem -->
    <td align="right" width="50%">
      <img src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd" width="500px" alt="Imagem animada do perfil">
@@ -28,27 +37,6 @@
 
 <!-- Contato centralizado -->
 <br>
-
-<div align="center">
-  <h3>📞 Contato</h3>
-  <a href="mailto:ghncontato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-henrique-a61769271/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-
-
-<!-- https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d -->
-
-<!--https://github.com/user-attachments/assets/861a56cd-7f12-4478-9c31-92d3fa14fdb5 -->
-
-
-
-
------------------------------------------------------------
 
 <!-- Projetos -->
 <div align="center"> 
