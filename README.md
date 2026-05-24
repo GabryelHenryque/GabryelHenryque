@@ -3,7 +3,15 @@
  <ul align="center">
      <summary>I'm<h1 style="display: inline-block">Gabriel henrique!</h1></summary>
   </ul>
+ 
+  <ul align="center">
+   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=990&color=63F747&center=true&multiline=true&repeat=false&width=438&height=70&lines=C%C3%B3digo%2C+arte+e+criatividade+;transformando+intera%C3%A7%C3%B5es+em+experi%C3%AAncias+visuais.)](https://git.io/typing-svg)
+   
+  </ul>
 </div>
+
+
 
 -----------------------------------------------------------
 <!-- GIF -->
@@ -14,22 +22,21 @@
 <br>
 <br>
 <br>
-<!-- https://github.com/user-attachments/assets/fb699882-7283-45a6-9b14-d7f2e91bdd9d -->
-
-<!--https://github.com/user-attachments/assets/861a56cd-7f12-4478-9c31-92d3fa14fdb5 -->
 
 <!-- Subtitle -->
 <div align="left"> 
  <p align="left">
-   🦄 Gosto de: **Tecnologia e Arte.**
+   🦄 Gosto de Tecnologia e Arte.
  </p><br>
  
  <p align="left">
-   💼 Atualmente: **Cursando TDS.**
+   🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora
  </p><br>
- 
  <p align="left">
-   📚 Estudando: **Django, React, GameMakerStudio2 e Desenho.**
+   📚 Focado em aprender Django, React, GameMakerStudio2 e Desenho.
+ </p><br>
+ <p align="left">
+   🤝 Aberta a colaborações e projetos em equipe
  </p><br>
 </div><br><br><br>
 
@@ -41,7 +48,6 @@
 </div>
 
 -----------------------------------------------------------
-
 <!-- Projetos -->
 <div align="center"> 
  🔎 Melhores Projetos:        
@@ -50,9 +56,6 @@
 <a target="_blank" href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
 <a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste"><img align="center" alt="Math-BootStrap" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
  </div>
- <!--<img align="center" alt="Math-Kotlin" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg"> <img align="center" alt="Math-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> --
- <!-- <a href="https://gabryelhenryque.github.io/Dia-da-mulher/"> <img align="top" alt="Math-javascript" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>-->
-<!--<a href="https://gabryelhenryque.github.io/exemple_html/"><img align="center" alt="Math-html5" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></a> -->
 
 -----------------------------------------------------------
 <div align="center">
@@ -61,22 +64,25 @@
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&theme=dracula) |
 | :-: | :-: |
 
-
-
-
 </div>
 
------------------------------------------------------------
+<div align="center"> 
+ 🏆 Conquistas
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabryelHenryque&theme=onedark&row=1&margin-w=10" />
+</p>
+ </div>
+ 
+-----------------------------------------------------------
 <div align="center">
    Visitantes<br>
  
-   <img align="center" src="https://profile-counter.glitch.me/GabryelHenryque/count.svg" />
+   ![Profile Views](https://komarev.com/ghpvc/?username=GabryelHenryque)
  </div>
 
 
-<!--
-<div div align="center">
+<!-- <div div align="center">
   <img align="center" src="https://github.com/user-attachments/assets/21171206-8dcb-469c-a2ad-b8d1c38c7f56" align="center" min-width="400px" max-width="400px" width="100%" alt="Imagem">
-</div>
--->
+</div> -->
+
