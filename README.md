@@ -1,25 +1,20 @@
 <!-- Nome -->
 <div id="user-content-toc">
  <ul align="center">
-     <summary>I'm<h1 style="display: inline-block">Gabriel henrique!</h1></summary>
+   <h1 align="center">Gabriel Henrique</h1>
   </ul>
  
   <ul align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=990&color=63F747&center=true&multiline=true&repeat=false&width=438&height=70&lines=C%C3%B3digo%2C+arte+e+criatividade+;transformando+intera%C3%A7%C3%B5es+em+experi%C3%AAncias+visuais.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=990&color=63F747&center=true&multiline=true&repeat=false&width=438&height=70&lines=C%C3%B3digo%2C+arte+e+criatividade+;transformando+intera%C3%A7%C3%B5es+em+experi%C3%AAncias+visuais.)](https://git.io/typing-svg)
    
   </ul>
 </div>
 
 
 
------------------------------------------------------------
 <!-- GIF -->
 <img align="right" src="https://github.com/user-attachments/assets/b4d68336-1ded-499d-bf31-205bc2aff3bd"  min-width="400px" max-width="500px" width="500px" align="right" alt="Imagem">
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
@@ -30,7 +25,7 @@
  </p><br>
  
  <p align="left">
-   🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedora
+   🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedor
  </p><br>
  <p align="left">
    📚 Focado em aprender Django, React, GameMakerStudio2 e Desenho.
@@ -47,17 +42,32 @@
   <a target="_blank" href="https://www.linkedin.com/in/gabriel-henrique-a61769271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
------------------------------------------------------------
+
 <!-- Projetos -->
-<div align="center"> 
- 🔎 Melhores Projetos:        
+<br>
 
-<a target="_blank" href="https://github.com/GabryelHenryque/Dia-da-mulher"><img align="center" alt="Math-css3"  width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"></a>
-<a target="_blank" href="https://nezit.itch.io/iunior"><img align="center" alt="Math-GameMaker" width="40" src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain"></a>
-<a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste"><img align="center" alt="Math-BootStrap" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></a>
+ ## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain" height="40" title="GameMakerStudio2"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" title="Figma"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="TailwindCss"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" height="40" title="Django"/>
+
+
+
  </div>
+<br>
 
------------------------------------------------------------
+---
 <div align="center">
  📊 Estatísticas:
  
@@ -74,7 +84,7 @@
 </p>
  </div>
  
------------------------------------------------------------
+---
 <div align="center">
    Visitantes<br>
  
