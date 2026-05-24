@@ -49,40 +49,35 @@
  ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://th.bing.com/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain" height="40" title="GameMakerStudio2"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" title="Figma"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="40" title="TailwindCss"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" height="40" title="Django"/>
-
-
-
+   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,bootstrap,git,github,vscode,tailwindcss,figma,trello" />
  </div>
 <br>
 
----
-<div align="center">
- 📊 Estatísticas:
+
+
+## 📊 Estatísticas:
  
+<br> 
+
+<div align="center">
+
+<img width="700" src="https://streak-stats.demolab.com?user=GabryelHenryque&theme=dracula"/>
+
+<br> 
+
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&theme=dracula) |
 | :-: | :-: |
 
+
 </div>
 
-<div align="center"> 
- 🏆 Conquistas
+
+ ## 🏆 Conquistas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabryelHenryque&theme=onedark&row=1&margin-w=10" />
 </p>
- </div>
+
  
 ---
 <div align="center">
