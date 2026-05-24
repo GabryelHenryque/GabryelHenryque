@@ -22,26 +22,26 @@
   width="500px"
   alt="Imagem"
 />
-<br><br>
+<br>
 
 <!-- Subtitle -->
 <div align="left">
 
-<p>
-🦄 Gosto de Tecnologia e Arte.
-</p>
+- 🎨 Explorando tecnologia, arte e experiências visuais.
+  
+<br>
 
-<p>
-🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir como desenvolvedor
-</p>
+- 🚀 Buscando oportunidades para aplicar meus conhecimentos, desenvolver projetos criativos e evoluir como desenvolvedor.
 
-<p>
-📚 Focado em aprender Django, React, GameMakerStudio2 e Desenho.
-</p>
+<br>
 
-<p>
-🤝 Aberta a colaborações e projetos em equipe
-</p>
+- 📚 Atualmente estudando Django, React, GameMaker Studio 2 e desenho digital.
+  
+<br>
+
+- 🤝 Aberto a colaborações, projetos em equipe e novas experiências na área de desenvolvimento.
+  
+<br>
 
 </div>
 
@@ -66,7 +66,10 @@
 
 </div>
 
+<br>
+
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -75,6 +78,76 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,django,bootstrap,git,github,vscode,tailwindcss,figma,trello" />
 
 </div>
+
+<br><br>
+
+<!-- Projetos -->
+## 🔎 Melhores Projetos
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="120px" align="center">
+
+<a target="_blank" href="https://github.com/GabryelHenryque/Dia-da-mulher">
+  <img width="80px" src="https://skillicons.dev/icons?i=css" />
+</a>
+
+</td>
+
+<td align="left">
+
+### 🌸 Dia da Mulher
+
+Landing page desenvolvida com HTML e CSS focada em design visual e responsividade.
+
+</td>
+</tr>
+
+<tr>
+<td width="120px" align="center">
+
+<a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste">
+  <img width="80px" src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+</td>
+
+<td align="left">
+
+### 🚗 DETRAN Teste
+
+Projeto que sorteia questoes da provra detram utilizando Bootstrap.
+
+</td>
+</tr>
+
+<tr>
+<td width="120px" align="center">
+
+<a target="_blank" href="https://nezit.itch.io/iunior">
+  <img width="80px" src="https://skillicons.dev/icons?i=unity" />
+</a>
+
+</td>
+
+<td align="left">
+
+### 🎮 Iunior
+
+Jogo de plataforma inspirado em jogos retro dificieis como contra e ghost ghost
+
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<br><br>
 
 ---
 
@@ -89,7 +162,7 @@
   src="https://streak-stats.demolab.com?user=GabryelHenryque&theme=dracula"
 />
 
-<br><br>
+<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabryelHenryque&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabryelHenryque&theme=dracula) |
 | :-: | :-: |
