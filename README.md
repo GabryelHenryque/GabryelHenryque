@@ -158,7 +158,7 @@ Jogo de plataforma inspirado em jogos retro dificieis como contra e ghost ghost
 <tr>
 <td width="120px" align="center">
 
-<a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste">
+<a target="_blank" href="https://github.com/GabryelHenryque/newExtension">
   <img width="80px" src="https://skillicons.dev/icons?i=html" />
 </a>
 
