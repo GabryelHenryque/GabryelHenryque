@@ -111,6 +111,7 @@ Landing page desenvolvida com HTML e CSS focada em design visual e responsividad
 
 <a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste">
   <img width="80px" src="https://skillicons.dev/icons?i=bootstrap" />
+  
 </a>
 
 </td>
@@ -148,6 +149,31 @@ Jogo de plataforma inspirado em jogos retro dificieis como contra e ghost ghost
 </div>
 
 <br><br>
+
+## 🔎 Ultimo projeto
+
+<div align="center">
+<table>
+
+<tr>
+<td width="120px" align="center">
+
+<a target="_blank" href="https://github.com/GabryelHenryque/DETRAN-GO_teste">
+  <img width="80px" src="https://skillicons.dev/icons?i=html" />
+</a>
+
+</td>
+
+<td align="left">
+
+### 🚗 DETRAN Teste
+
+Projeto que cria uma novo formato de extensão e ler esse novo tipo de arquivo monstrando novas informações
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
